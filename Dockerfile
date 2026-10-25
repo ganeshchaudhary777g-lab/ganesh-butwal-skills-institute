@@ -22,3 +22,4 @@ EXPOSE 10000
 USER $APP_UID
 
 ENTRYPOINT ["dotnet", "AdmissionWeb.dll"]
+
