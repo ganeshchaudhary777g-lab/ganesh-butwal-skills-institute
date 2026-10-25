@@ -1,2 +1,1 @@
-# ganesh-butwal-skills-institute
-A modern and responsive admission management website for Butwal Skills Training Institute, featuring online admission, course information, payment options, and an admin dashboard.
+Responsive screenshot capture was attempted but the sandbox blocked loopback testing, and headless Edge exited with code 13. The requested viewport widths are 320, 360, 375, 390, 412, 768, 1024, 1280, and 1440 CSS pixels. No fabricated screenshots are included. After restore/build on a machine with a browser, capture baseline and final screenshots at each width and check for horizontal overflow.

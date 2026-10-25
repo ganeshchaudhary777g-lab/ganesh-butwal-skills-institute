@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/.vs/
+**/App_Data/
+**/Original_Project_Backup/
+**/Assignment Video/
+.git/
+*.zip
+.env
+.env.*
+!.env.example

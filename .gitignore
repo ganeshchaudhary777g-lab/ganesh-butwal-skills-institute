@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+publish/
+App_Data/
+.env
+.env.*
+!.env.example
+*.user
+*.suo
